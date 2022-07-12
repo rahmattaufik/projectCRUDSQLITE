@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185071968232",
+    "project_id": "projectcrudsqlite",
+    "storage_bucket": "projectcrudsqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185071968232:android:bea1803783050cb4d90e5d",
+        "android_client_info": {
+          "package_name": "com.example.projectcrudsqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185071968232-ko62e7eq1hhu8h4vpji7ejfd3gccge58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectcrudsqlite",
+            "certificate_hash": "6be667829c607ce4ebfb21ce6db1052ea6b00839"
+          }
+        },
+        {
+          "client_id": "185071968232-8m0vifjcmogfv17ssmlggnumgu2qjibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARCsc0gSc6OZSVyWeH4OJ_NLVuT1GqUbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185071968232-8m0vifjcmogfv17ssmlggnumgu2qjibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
